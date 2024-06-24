@@ -1,1 +1,3 @@
-# CODSOFT-1
+Hello, Here I've attached the figma link of my intern task-2. By clicking the below link you can view it...
+
+https://www.figma.com/design/BWMguRydJECeJK4TR4uSmA/Task-2-codsoft?t=rvi9j4hq3ttc33xH-0
